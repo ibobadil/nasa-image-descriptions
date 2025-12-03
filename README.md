@@ -11,7 +11,7 @@
 ### 2. I looped through the data and created lists of the information I wanted to include in this project.
 ### 3. I made a data frame out of these lists and saved it to a csv using the **pandas** library.
 ### 4. I used **OpenRefine** to help organize the data in a way that would be useful for making graphs and visualizations of the data (WIP).
-### 5. I used **matplotlib**, **numpy**, and **Pillow** to create the graphs using data from the csv (TO DO).
+### 5. I used **matplotlib** and **numpy** to create the graphs using data from the csv (TO DO).
 
 ### In the future this code could be used to simply access metadata from the NASA Image and Video Library API, as there is not documentation online anymore. Future uses could include using similar loops to examine different search querys, keywords, and images on the website. It could also be compared to the visual and written publications of other scientific institutions. Initially I had thought about working with headlines or other kinds of text from various sources, it could be interesting to see how the NASA Library data compares to other discussions about climate change in its titles and keywords. Through working on this project, I gained a lot of interest in the images themselves and the visual component of this data. This data could possible be used to consider how language and metadata is ascribed to images, and how this influences what kind of results appear in this and other libraries for different queries.
 
