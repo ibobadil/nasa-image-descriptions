@@ -23,4 +23,4 @@ In the future this code could be used to access metadata from the NASA Image and
 - finalproject1.ipynb
 - finalproject2.ipynb
 - nasa_data.csv
-- as I continue to use OpenRefine to work with the data, I will likely have additional csv and ipynb files that I add here.
+- As I continue to use OpenRefine to work with the data, I will likely have additional csv and ipynb files that I add here.
