@@ -1,7 +1,6 @@
 # nasa-image-data
 
-## Project Title
-Examining Visuals of 'climate change' from the NASA Image and Video Library
+## Examining Visuals of 'climate change' from the NASA Image and Video Library
 
 ### Project Description
   This project uses the [NASA Image and Video Library](https://images.nasa.gov/) API to collect data about the keywords associated with the images in this library. The query used to select images was 'climate change', as the goal is to examine what kinds of photos are associated with this term and what other metadata surrounds these items, such as dates, descriptions, titles, and other keywords. In addition to this metadata I also collected the NASA ID and links associated with each photo. This information was all brought together in a csv file. From there, this metadata will be used to create several graphs that illustrate the usage of different keywords over time, the quantitity of images over time, and what these images depict.
